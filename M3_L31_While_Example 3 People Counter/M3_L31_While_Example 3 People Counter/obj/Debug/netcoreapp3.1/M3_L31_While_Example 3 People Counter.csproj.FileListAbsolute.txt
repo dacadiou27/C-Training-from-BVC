@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\bin\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\bin\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\bin\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\bin\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\bin\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\bin\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\obj\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\obj\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\obj\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\obj\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\obj\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter\obj\Debug\netcoreapp3.1\M3_L31_While_Example 3 People Counter.genruntimeconfig.cache
