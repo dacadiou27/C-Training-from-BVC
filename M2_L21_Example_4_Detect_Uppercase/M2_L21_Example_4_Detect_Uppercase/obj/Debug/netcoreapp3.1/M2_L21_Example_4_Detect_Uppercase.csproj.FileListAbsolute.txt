@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\bin\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\bin\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\bin\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\bin\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\bin\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\bin\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\obj\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\obj\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\obj\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\obj\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\obj\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase\obj\Debug\netcoreapp3.1\M2_L21_Example_4_Detect_Uppercase.genruntimeconfig.cache
