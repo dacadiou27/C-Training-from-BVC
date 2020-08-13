@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ju+0S6bly1oC71bYMFuqXPcNqRki6Y9dgTBEf8e4yUWCBcnPvqeb1H2tww10cs7rlgsg4QZ0TZPhZYGUsfeM4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3 L31 C sharp Continue and Break Commands\\M3 L31 C sharp Continue and Break Commands\\M3 L31 C sharp Continue and Break Commands.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
