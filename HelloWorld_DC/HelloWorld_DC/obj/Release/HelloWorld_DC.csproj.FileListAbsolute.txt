@@ -1,0 +1,7 @@
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\0_Intro\Hello_World\HelloWorld_DC\HelloWorld_DC\bin\Release\HelloWorld_DC.exe.config
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\0_Intro\Hello_World\HelloWorld_DC\HelloWorld_DC\bin\Release\HelloWorld_DC.exe
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\0_Intro\Hello_World\HelloWorld_DC\HelloWorld_DC\bin\Release\HelloWorld_DC.pdb
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\0_Intro\Hello_World\HelloWorld_DC\HelloWorld_DC\obj\Release\HelloWorld_DC.csprojAssemblyReference.cache
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\0_Intro\Hello_World\HelloWorld_DC\HelloWorld_DC\obj\Release\HelloWorld_DC.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\0_Intro\Hello_World\HelloWorld_DC\HelloWorld_DC\obj\Release\HelloWorld_DC.exe
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\0_Intro\Hello_World\HelloWorld_DC\HelloWorld_DC\obj\Release\HelloWorld_DC.pdb

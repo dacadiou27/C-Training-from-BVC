@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\bin\Debug\netcoreapp3.1\Circle_Calculator.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\bin\Debug\netcoreapp3.1\Circle_Calculator.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\bin\Debug\netcoreapp3.1\Circle_Calculator.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\bin\Debug\netcoreapp3.1\Circle_Calculator.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\bin\Debug\netcoreapp3.1\Circle_Calculator.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\bin\Debug\netcoreapp3.1\Circle_Calculator.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\obj\Debug\netcoreapp3.1\Circle_Calculator.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\obj\Debug\netcoreapp3.1\Circle_Calculator.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\obj\Debug\netcoreapp3.1\Circle_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\obj\Debug\netcoreapp3.1\Circle_Calculator.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\obj\Debug\netcoreapp3.1\Circle_Calculator.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\obj\Debug\netcoreapp3.1\Circle_Calculator.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\Module1Lesson5LA1\Circle_Calculator\Circle_Calculator\obj\Debug\netcoreapp3.1\Circle_Calculator.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\obj\Debug\netcoreapp3.1\DegreetoRadian.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\obj\Debug\netcoreapp3.1\DegreetoRadian.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\obj\Debug\netcoreapp3.1\DegreetoRadian.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\bin\Debug\netcoreapp3.1\DegreetoRadian.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\bin\Debug\netcoreapp3.1\DegreetoRadian.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\bin\Debug\netcoreapp3.1\DegreetoRadian.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\bin\Debug\netcoreapp3.1\DegreetoRadian.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\bin\Debug\netcoreapp3.1\DegreetoRadian.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\bin\Debug\netcoreapp3.1\DegreetoRadian.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\obj\Debug\netcoreapp3.1\DegreetoRadian.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\obj\Debug\netcoreapp3.1\DegreetoRadian.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\DegreetoRadian\DegreetoRadian\obj\Debug\netcoreapp3.1\DegreetoRadian.genruntimeconfig.cache
