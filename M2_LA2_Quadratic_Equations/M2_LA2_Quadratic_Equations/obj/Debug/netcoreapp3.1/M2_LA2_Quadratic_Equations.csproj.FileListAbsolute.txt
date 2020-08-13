@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\obj\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\obj\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\obj\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\bin\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\bin\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\bin\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\bin\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\bin\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\bin\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\obj\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\obj\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_LA2_Quadratic_Equations\M2_LA2_Quadratic_Equations\obj\Debug\netcoreapp3.1\M2_LA2_Quadratic_Equations.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\bin\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\bin\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\bin\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\bin\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\bin\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\bin\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\obj\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\obj\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\obj\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\obj\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\obj\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L25_Ternary Operator examples\M2_L25_Ternary Operator examples\obj\Debug\netcoreapp3.1\M2_L25_Ternary Operator examples.genruntimeconfig.cache
