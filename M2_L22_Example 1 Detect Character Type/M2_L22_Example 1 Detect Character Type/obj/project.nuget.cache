@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sNkyfD9jzKMHzjoOJMfZAjodF1+fNsl6zxTMpoBut2nAf7NgDYsMGcW7QdLJA77/0PnEmEn/OUVMKdAsyENzJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2_L22_Example 1 Detect Character Type\\M2_L22_Example 1 Detect Character Type\\M2_L22_Example 1 Detect Character Type.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
