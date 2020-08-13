@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\obj\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\obj\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\obj\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\bin\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\bin\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\bin\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\bin\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\bin\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\bin\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\obj\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\obj\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Learning Activity 1 Bus Discount\M2_L22_Learning Activity 1 Bus Discount\obj\Debug\netcoreapp3.1\M2_L22_Learning Activity 1 Bus Discount.genruntimeconfig.cache
