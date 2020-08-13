@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\bin\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\bin\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\bin\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\bin\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\bin\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\bin\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\obj\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\obj\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\obj\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\obj\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\obj\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\obj\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 Example 3 Invalid Age\M2 L21 Example 3 Invalid Age\obj\Debug\netcoreapp3.1\M2 L21 Example 3 Invalid Age.genruntimeconfig.cache
