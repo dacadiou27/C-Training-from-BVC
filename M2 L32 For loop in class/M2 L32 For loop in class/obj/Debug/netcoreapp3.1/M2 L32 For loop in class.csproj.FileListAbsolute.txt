@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\obj\Debug\netcoreapp3.1\M2 L32 For loop in class.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\obj\Debug\netcoreapp3.1\M2 L32 For loop in class.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\obj\Debug\netcoreapp3.1\M2 L32 For loop in class.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\obj\Debug\netcoreapp3.1\M2 L32 For loop in class.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\bin\Debug\netcoreapp3.1\M2 L32 For loop in class.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\bin\Debug\netcoreapp3.1\M2 L32 For loop in class.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\bin\Debug\netcoreapp3.1\M2 L32 For loop in class.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\bin\Debug\netcoreapp3.1\M2 L32 For loop in class.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\bin\Debug\netcoreapp3.1\M2 L32 For loop in class.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\bin\Debug\netcoreapp3.1\M2 L32 For loop in class.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\obj\Debug\netcoreapp3.1\M2 L32 For loop in class.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\obj\Debug\netcoreapp3.1\M2 L32 For loop in class.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop in class\M2 L32 For loop in class\obj\Debug\netcoreapp3.1\M2 L32 For loop in class.genruntimeconfig.cache

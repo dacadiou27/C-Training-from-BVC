@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String\M3_L34_LA1_Replace String\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String.genruntimeconfig.cache

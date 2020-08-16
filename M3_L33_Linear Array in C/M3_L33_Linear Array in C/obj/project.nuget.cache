@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJFoxE/YGUwqrnsn43bHE1YI81hJsxBRFP8/NtmE3y/YvN2sYCk0tZS+9qS3/c3tJUbj3BE0Si6Ulnaya77isQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Linear Array in C\\M3_L33_Linear Array in C\\M3_L33_Linear Array in C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\bin\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\bin\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\bin\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\bin\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\bin\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\bin\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\obj\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\obj\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\obj\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\obj\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\obj\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\obj\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA2 Statistical Analysis\M3_L33_LA2 Statistical Analysis\obj\Debug\netcoreapp3.1\M3_L33_LA2 Statistical Analysis.genruntimeconfig.cache

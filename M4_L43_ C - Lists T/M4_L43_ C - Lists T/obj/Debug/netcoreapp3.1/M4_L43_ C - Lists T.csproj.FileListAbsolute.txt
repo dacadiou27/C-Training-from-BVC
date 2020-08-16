@@ -1,0 +1,26 @@
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.exe
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.deps.json
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.runtimeconfig.json
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.runtimeconfig.dev.json
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.dll
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.pdb
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.csprojAssemblyReference.cache
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.AssemblyInfoInputs.cache
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.AssemblyInfo.cs
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.csproj.CoreCompileInputs.cache
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.dll
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.pdb
+C:\Users\dacad\source\repos\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\bin\Debug\netcoreapp3.1\M4_L43_ C - Lists T.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C - Lists T\M4_L43_ C - Lists T\obj\Debug\netcoreapp3.1\M4_L43_ C - Lists T.genruntimeconfig.cache

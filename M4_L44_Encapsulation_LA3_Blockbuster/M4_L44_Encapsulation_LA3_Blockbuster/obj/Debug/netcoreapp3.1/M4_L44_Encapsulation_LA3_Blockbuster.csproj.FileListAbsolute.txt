@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA3_Blockbuster\M4_L44_Encapsulation_LA3_Blockbuster\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA3_Blockbuster.genruntimeconfig.cache

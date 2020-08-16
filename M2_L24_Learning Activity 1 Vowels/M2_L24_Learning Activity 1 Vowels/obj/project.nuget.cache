@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HLTmzm4/0QEpuh1FjmzocjQs3rVMHr0eGburHgVuZ5PF/SdTJv4BhvPPZCqga98SRdeRZouhrvJuF7dU3d5orQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2_L24_Learning Activity 1 Vowels\\M2_L24_Learning Activity 1 Vowels\\M2_L24_Learning Activity 1 Vowels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\bin\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\bin\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\bin\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\bin\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\bin\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\bin\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\obj\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\obj\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\obj\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\obj\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\obj\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\obj\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA_InClass_Initia_Student\M4_L42_LA_InClass_Initia_Student\obj\Debug\netcoreapp3.1\M4_L42_LA_InClass_Initia_Student.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution Check\M3_L34_LA1_Replace String Solution Check\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution Check.genruntimeconfig.cache

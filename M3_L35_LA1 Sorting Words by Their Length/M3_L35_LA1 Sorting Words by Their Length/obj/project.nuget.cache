@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0T/LObgMt1u+vlh41iSBxveqDuL4GXXE1/m8mG6v/ngYmPeMv4nTv2z7V2eLx7cYgONW+nfFfDfsC5h1CJCCtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L35_LA1 Sorting Words by Their Length\\M3_L35_LA1 Sorting Words by Their Length\\M3_L35_LA1 Sorting Words by Their Length.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

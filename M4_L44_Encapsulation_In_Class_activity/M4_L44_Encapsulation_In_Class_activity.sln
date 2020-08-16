@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M4_L44_Encapsulation_In_Class_activity", "M4_L44_Encapsulation_In_Class_activity\M4_L44_Encapsulation_In_Class_activity.csproj", "{ADC224BC-FB9A-4252-9657-B8CC6F6B578A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC224BC-FB9A-4252-9657-B8CC6F6B578A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC224BC-FB9A-4252-9657-B8CC6F6B578A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC224BC-FB9A-4252-9657-B8CC6F6B578A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC224BC-FB9A-4252-9657-B8CC6F6B578A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B8FC4C2-2133-471C-AADF-A8B152928DA9}
+	EndGlobalSection
+EndGlobal

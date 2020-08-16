@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\bin\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\bin\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\bin\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\bin\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\bin\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\bin\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\obj\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\obj\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\obj\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\obj\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\obj\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\obj\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M5_L51_Reference_inheritance\M5_L51_Reference_inheritance\obj\Debug\netcoreapp3.1\M5_L51_Reference_inheritance.genruntimeconfig.cache

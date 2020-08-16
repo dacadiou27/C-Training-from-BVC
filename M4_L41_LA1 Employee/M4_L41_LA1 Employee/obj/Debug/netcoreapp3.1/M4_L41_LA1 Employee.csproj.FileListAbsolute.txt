@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee\M4_L41_LA1 Employee\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee.genruntimeconfig.cache

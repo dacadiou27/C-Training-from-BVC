@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\obj\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\obj\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\obj\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\bin\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\bin\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\bin\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\bin\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\bin\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\bin\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\obj\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\obj\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\obj\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 Learning Activity 3 Sum of Numbers\M3 L31 Learning Activity 3 Sum of Numbers\obj\Debug\netcoreapp3.1\M3 L31 Learning Activity 3 Sum of Numbers.csprojAssemblyReference.cache

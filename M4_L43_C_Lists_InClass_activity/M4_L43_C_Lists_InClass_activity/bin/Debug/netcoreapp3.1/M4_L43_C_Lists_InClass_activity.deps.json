@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M4_L43_C_Lists_InClass_activity/1.0.0": {
+        "runtime": {
+          "M4_L43_C_Lists_InClass_activity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M4_L43_C_Lists_InClass_activity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

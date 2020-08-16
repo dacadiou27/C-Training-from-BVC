@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 1 Rectangle Class\M4_L42_Example 1 Rectangle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 1 Rectangle Class.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\bin\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\bin\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\bin\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\bin\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\bin\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\bin\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\obj\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\obj\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\obj\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\obj\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\obj\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Example 1 Day of the Week\M2_L24_Example 1 Day of the Week\obj\Debug\netcoreapp3.1\M2_L24_Example 1 Day of the Week.genruntimeconfig.cache

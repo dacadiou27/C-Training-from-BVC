@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V7/LgbJZeLnxInJAiuKkpC2zJ4PRBBCpbdTYF/eLf+w00LP9xxliDCyP4g8aypGoFjcH23Gdiewz4X5AJasooA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L34_LA1_Replace String\\M3_L34_LA1_Replace String\\M3_L34_LA1_Replace String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

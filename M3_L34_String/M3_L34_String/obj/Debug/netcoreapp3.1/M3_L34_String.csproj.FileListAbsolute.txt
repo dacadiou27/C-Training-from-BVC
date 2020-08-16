@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\bin\Debug\netcoreapp3.1\M3_L34_String.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\bin\Debug\netcoreapp3.1\M3_L34_String.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\bin\Debug\netcoreapp3.1\M3_L34_String.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\bin\Debug\netcoreapp3.1\M3_L34_String.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\bin\Debug\netcoreapp3.1\M3_L34_String.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\bin\Debug\netcoreapp3.1\M3_L34_String.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\obj\Debug\netcoreapp3.1\M3_L34_String.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\obj\Debug\netcoreapp3.1\M3_L34_String.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\obj\Debug\netcoreapp3.1\M3_L34_String.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\obj\Debug\netcoreapp3.1\M3_L34_String.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\obj\Debug\netcoreapp3.1\M3_L34_String.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\obj\Debug\netcoreapp3.1\M3_L34_String.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_String\M3_L34_String\obj\Debug\netcoreapp3.1\M3_L34_String.csprojAssemblyReference.cache

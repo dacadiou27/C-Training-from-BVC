@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\bin\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\bin\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\bin\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\bin\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\bin\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\bin\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\obj\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\obj\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\obj\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\obj\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\obj\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\obj\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_OOPC_Example 2 Bank Account\M4_L41_OOPC_Example 2 Bank Account\obj\Debug\netcoreapp3.1\M4_L41_OOPC_Example 2 Bank Account.genruntimeconfig.cache

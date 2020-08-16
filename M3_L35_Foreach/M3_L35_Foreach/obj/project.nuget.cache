@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCdCVJ6luRk9H/f6xX+OcKDIXowa2KYwO7zK4RqIGaK+shQehBk7UxJBu26VVlb2xSWRdvbB286Ae281dDfW+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L35_Foreach\\M3_L35_Foreach\\M3_L35_Foreach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

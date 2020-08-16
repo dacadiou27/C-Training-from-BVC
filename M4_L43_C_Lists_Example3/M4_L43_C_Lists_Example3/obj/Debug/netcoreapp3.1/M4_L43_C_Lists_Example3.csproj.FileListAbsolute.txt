@@ -1,0 +1,4 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example3\M4_L43_C_Lists_Example3\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example3.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example3\M4_L43_C_Lists_Example3\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example3.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example3\M4_L43_C_Lists_Example3\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example3.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example3\M4_L43_C_Lists_Example3\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example3.csproj.CoreCompileInputs.cache

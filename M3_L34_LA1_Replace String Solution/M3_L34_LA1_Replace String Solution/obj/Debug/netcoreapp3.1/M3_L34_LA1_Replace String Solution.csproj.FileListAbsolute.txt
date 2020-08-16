@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\bin\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L34_LA1_Replace String Solution\M3_L34_LA1_Replace String Solution\obj\Debug\netcoreapp3.1\M3_L34_LA1_Replace String Solution.csprojAssemblyReference.cache

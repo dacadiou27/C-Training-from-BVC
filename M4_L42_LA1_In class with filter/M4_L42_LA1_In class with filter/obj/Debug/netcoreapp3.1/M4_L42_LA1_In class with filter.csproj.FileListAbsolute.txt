@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\obj\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\obj\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\obj\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\bin\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\bin\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\bin\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\bin\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\bin\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\bin\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\obj\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\obj\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_LA1_In class with filter\M4_L42_LA1_In class with filter\obj\Debug\netcoreapp3.1\M4_L42_LA1_In class with filter.genruntimeconfig.cache

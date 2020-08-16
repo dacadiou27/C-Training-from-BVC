@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\obj\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\obj\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\obj\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\obj\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\bin\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\bin\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\bin\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\bin\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\bin\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\bin\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\obj\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\obj\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value\obj\Debug\netcoreapp3.1\M3_L33_Example 1 Find a Requested Value.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\bin\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L41_LA1 Employee Sol1\M4_L41_LA1 Employee Sol1\obj\Debug\netcoreapp3.1\M4_L41_LA1 Employee Sol1.genruntimeconfig.cache

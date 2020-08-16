@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lw3EMcPPnkyZ736bDGuzJq3SommHdLvtnD/aDqoFIRO43C3+BdA+a2N45exo1/7CZDcxo/3eHFrP+qWQuBWO9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M4_L42_Example 2 Circle Class\\M4_L42_Example 2 Circle Class\\M4_L42_Example 2 Circle Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

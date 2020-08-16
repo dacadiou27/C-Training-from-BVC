@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\obj\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\obj\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\obj\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\obj\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\bin\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.exe
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\bin\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.deps.json
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\bin\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\bin\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\bin\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.dll
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\bin\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.pdb
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\obj\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.dll
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\obj\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.pdb
+C:\Users\dacad\Documents\BVC\Web Prog\Assign\M4_L45_Reference_and_Value_Types\M4_L45_Reference_and_Value_Types\obj\Debug\netcoreapp3.1\M4_L45_Reference_and_Value_Types.genruntimeconfig.cache

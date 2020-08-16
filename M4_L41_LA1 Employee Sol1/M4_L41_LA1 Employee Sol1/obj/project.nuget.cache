@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4W98+5AcNpR3FMrb/NWF4CbgWjujR03uyYrtwSZVd+Xb2LQZXHIfZnhvSjH2ccjfpkSd6R6bO1q0LnoNTYDbkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M4_L41_LA1 Employee Sol1\\M4_L41_LA1 Employee Sol1\\M4_L41_LA1 Employee Sol1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

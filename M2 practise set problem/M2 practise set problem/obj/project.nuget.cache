@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DFLV7zV05rGxfhYPy3gfp/7f1rc0T9g6qY7iwM6ifDK6jRBCOs2a15wGO+bTWtMySM7hkaIMgixT7h3Qw0+rsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2 practise set problem\\M2 practise set problem\\M2 practise set problem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

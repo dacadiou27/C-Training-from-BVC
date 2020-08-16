@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M3_L35_LA1 Sorting Words by Their Length/1.0.0": {
+        "runtime": {
+          "M3_L35_LA1 Sorting Words by Their Length.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M3_L35_LA1 Sorting Words by Their Length/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

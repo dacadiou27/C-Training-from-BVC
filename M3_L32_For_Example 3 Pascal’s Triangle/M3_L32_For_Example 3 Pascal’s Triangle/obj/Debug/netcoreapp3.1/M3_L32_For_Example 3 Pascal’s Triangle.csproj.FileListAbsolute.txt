@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\obj\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\obj\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\obj\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\bin\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\bin\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\bin\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\bin\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\bin\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\bin\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\obj\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\obj\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L32_For_Example 3 Pascal’s Triangle\M3_L32_For_Example 3 Pascal’s Triangle\obj\Debug\netcoreapp3.1\M3_L32_For_Example 3 Pascal’s Triangle.genruntimeconfig.cache

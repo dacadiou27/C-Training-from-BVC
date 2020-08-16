@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hVeQPaPurQOdmOSBVnjbKBCN2J0jibPBS27hlB3zaKVfMnmFGY8uZS9FwtZW2A7YWoPaLyJaTQFWME/tJE28QA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2 L32 For loop in class\\M2 L32 For loop in class\\M2 L32 For loop in class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

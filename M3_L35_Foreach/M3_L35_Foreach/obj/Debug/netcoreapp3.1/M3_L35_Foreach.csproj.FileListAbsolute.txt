@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\bin\Debug\netcoreapp3.1\M3_L35_Foreach.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\bin\Debug\netcoreapp3.1\M3_L35_Foreach.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\bin\Debug\netcoreapp3.1\M3_L35_Foreach.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\bin\Debug\netcoreapp3.1\M3_L35_Foreach.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\bin\Debug\netcoreapp3.1\M3_L35_Foreach.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\bin\Debug\netcoreapp3.1\M3_L35_Foreach.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\obj\Debug\netcoreapp3.1\M3_L35_Foreach.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\obj\Debug\netcoreapp3.1\M3_L35_Foreach.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\obj\Debug\netcoreapp3.1\M3_L35_Foreach.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\obj\Debug\netcoreapp3.1\M3_L35_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\obj\Debug\netcoreapp3.1\M3_L35_Foreach.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\obj\Debug\netcoreapp3.1\M3_L35_Foreach.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_Foreach\M3_L35_Foreach\obj\Debug\netcoreapp3.1\M3_L35_Foreach.genruntimeconfig.cache

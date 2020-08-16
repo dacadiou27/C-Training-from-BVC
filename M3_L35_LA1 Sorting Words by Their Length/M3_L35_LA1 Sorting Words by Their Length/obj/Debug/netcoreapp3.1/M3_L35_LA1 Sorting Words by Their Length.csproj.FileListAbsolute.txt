@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\bin\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\bin\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\bin\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\bin\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\bin\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\bin\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\obj\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\obj\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\obj\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\obj\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\obj\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\obj\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length\obj\Debug\netcoreapp3.1\M3_L35_LA1 Sorting Words by Their Length.genruntimeconfig.cache

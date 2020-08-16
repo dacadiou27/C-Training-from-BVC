@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\obj\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\obj\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\obj\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\bin\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\bin\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\bin\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\bin\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\bin\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\bin\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\obj\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\obj\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\obj\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Multidimentional Array in C\M3_L33_Multidimentional Array in C\obj\Debug\netcoreapp3.1\M3_L33_Multidimentional Array in C.csprojAssemblyReference.cache

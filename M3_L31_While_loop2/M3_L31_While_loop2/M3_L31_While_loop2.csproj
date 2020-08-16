@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_Valid_input.cs" Link="M3_L31_While_Valid_input.cs" />
+  </ItemGroup>
+
+</Project>

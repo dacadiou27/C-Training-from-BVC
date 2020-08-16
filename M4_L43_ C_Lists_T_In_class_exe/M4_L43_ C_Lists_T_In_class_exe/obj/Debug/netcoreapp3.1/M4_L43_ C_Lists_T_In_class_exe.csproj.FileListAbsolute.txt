@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\obj\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\obj\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\obj\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\bin\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\bin\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\bin\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\bin\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\bin\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\bin\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\obj\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\obj\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_ C_Lists_T_In_class_exe\M4_L43_ C_Lists_T_In_class_exe\obj\Debug\netcoreapp3.1\M4_L43_ C_Lists_T_In_class_exe.genruntimeconfig.cache

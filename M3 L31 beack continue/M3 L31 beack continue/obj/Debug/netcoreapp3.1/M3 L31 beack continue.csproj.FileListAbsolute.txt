@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\obj\Debug\netcoreapp3.1\M3 L31 beack continue.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\obj\Debug\netcoreapp3.1\M3 L31 beack continue.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\obj\Debug\netcoreapp3.1\M3 L31 beack continue.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\obj\Debug\netcoreapp3.1\M3 L31 beack continue.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\bin\Debug\netcoreapp3.1\M3 L31 beack continue.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\bin\Debug\netcoreapp3.1\M3 L31 beack continue.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\bin\Debug\netcoreapp3.1\M3 L31 beack continue.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\bin\Debug\netcoreapp3.1\M3 L31 beack continue.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\bin\Debug\netcoreapp3.1\M3 L31 beack continue.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\bin\Debug\netcoreapp3.1\M3 L31 beack continue.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\obj\Debug\netcoreapp3.1\M3 L31 beack continue.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\obj\Debug\netcoreapp3.1\M3 L31 beack continue.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 beack continue\M3 L31 beack continue\obj\Debug\netcoreapp3.1\M3 L31 beack continue.genruntimeconfig.cache

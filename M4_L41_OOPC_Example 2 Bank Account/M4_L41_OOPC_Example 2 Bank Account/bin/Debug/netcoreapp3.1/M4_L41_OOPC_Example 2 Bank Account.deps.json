@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M4_L41_OOPC_Example 2 Bank Account/1.0.0": {
+        "runtime": {
+          "M4_L41_OOPC_Example 2 Bank Account.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M4_L41_OOPC_Example 2 Bank Account/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

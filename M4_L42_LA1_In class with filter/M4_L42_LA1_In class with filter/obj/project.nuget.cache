@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7d80gf0qvHTYvMjJoI/W0MVp2VK0wTZi3ER47des85qCxTrE+deFhKEWJOb0LeO4Gzgx1usAqno3YqHbG6EiDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M4_L42_LA1_In class with filter\\M4_L42_LA1_In class with filter\\M4_L42_LA1_In class with filter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

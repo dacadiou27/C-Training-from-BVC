@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\bin\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\bin\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\bin\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\bin\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\bin\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\bin\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\obj\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\obj\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\obj\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\obj\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\obj\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\obj\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example 4 Sorting\M3_L33_Example 4 Sorting\obj\Debug\netcoreapp3.1\M3_L33_Example 4 Sorting.genruntimeconfig.cache

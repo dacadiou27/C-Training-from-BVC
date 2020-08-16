@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_Example1\M4_L43_C_Lists_Example1\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_Example1.genruntimeconfig.cache

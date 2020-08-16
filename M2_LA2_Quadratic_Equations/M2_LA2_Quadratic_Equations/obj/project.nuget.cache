@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cpf2ang8mzq9K/2GuQPr587Q8PmxObFBTxGt7Tf/buUjwsOmCOQLOUubFXb27OBw1wiV9cd+ivbh0KZxxDAzFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2_LA2_Quadratic_Equations\\M2_LA2_Quadratic_Equations\\M2_LA2_Quadratic_Equations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

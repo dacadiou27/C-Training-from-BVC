@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\bin\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L44_Encapsulation_LA2_Dice_Pool\M4_L44_Encapsulation_LA2_Dice_Pool\obj\Debug\netcoreapp3.1\M4_L44_Encapsulation_LA2_Dice_Pool.genruntimeconfig.cache

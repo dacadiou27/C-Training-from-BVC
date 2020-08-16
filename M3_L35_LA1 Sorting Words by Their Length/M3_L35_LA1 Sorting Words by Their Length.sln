@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_L35_LA1 Sorting Words by Their Length", "M3_L35_LA1 Sorting Words by Their Length\M3_L35_LA1 Sorting Words by Their Length.csproj", "{2CD09F86-D93C-4D1B-AF4F-11ADC8BD3798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CD09F86-D93C-4D1B-AF4F-11ADC8BD3798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CD09F86-D93C-4D1B-AF4F-11ADC8BD3798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CD09F86-D93C-4D1B-AF4F-11ADC8BD3798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CD09F86-D93C-4D1B-AF4F-11ADC8BD3798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAE6E3F8-73D1-42D8-AF55-935DB83AE14B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\bin\Debug\netcoreapp3.1\M3_L33_LA1.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\bin\Debug\netcoreapp3.1\M3_L33_LA1.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\bin\Debug\netcoreapp3.1\M3_L33_LA1.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\bin\Debug\netcoreapp3.1\M3_L33_LA1.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\bin\Debug\netcoreapp3.1\M3_L33_LA1.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\bin\Debug\netcoreapp3.1\M3_L33_LA1.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\obj\Debug\netcoreapp3.1\M3_L33_LA1.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\obj\Debug\netcoreapp3.1\M3_L33_LA1.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\obj\Debug\netcoreapp3.1\M3_L33_LA1.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\obj\Debug\netcoreapp3.1\M3_L33_LA1.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\obj\Debug\netcoreapp3.1\M3_L33_LA1.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\obj\Debug\netcoreapp3.1\M3_L33_LA1.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_LA1\M3_L33_LA1\obj\Debug\netcoreapp3.1\M3_L33_LA1.genruntimeconfig.cache

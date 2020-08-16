@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M4_L41_LA1 Employee Sol2/1.0.0": {
+        "runtime": {
+          "M4_L41_LA1 Employee Sol2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M4_L41_LA1 Employee Sol2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

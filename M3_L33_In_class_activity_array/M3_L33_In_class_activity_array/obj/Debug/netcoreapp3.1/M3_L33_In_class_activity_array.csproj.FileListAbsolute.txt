@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\bin\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\bin\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\bin\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\bin\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\bin\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\bin\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\obj\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\obj\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\obj\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\obj\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\obj\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\obj\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_In_class_activity_array\M3_L33_In_class_activity_array\obj\Debug\netcoreapp3.1\M3_L33_In_class_activity_array.genruntimeconfig.cache

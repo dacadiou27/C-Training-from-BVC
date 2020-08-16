@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\bin\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L43_C_Lists_LA1_Contact_List\M4_L43_C_Lists_LA1_Contact_List\obj\Debug\netcoreapp3.1\M4_L43_C_Lists_LA1_Contact_List.genruntimeconfig.cache

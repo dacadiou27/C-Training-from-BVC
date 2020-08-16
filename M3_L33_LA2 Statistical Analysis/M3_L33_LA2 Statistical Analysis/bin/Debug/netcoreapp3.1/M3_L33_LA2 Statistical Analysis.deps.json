@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M3_L33_LA2 Statistical Analysis/1.0.0": {
+        "runtime": {
+          "M3_L33_LA2 Statistical Analysis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M3_L33_LA2 Statistical Analysis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

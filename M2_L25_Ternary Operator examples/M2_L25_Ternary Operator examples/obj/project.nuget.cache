@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oORJe4wirfC1tefKqKifJkA7TgBxR9SKzLNSwKWPeO2RplxcReg9aF9WkQSOLAatEUpX1TbBzDoIzQJAB3xRfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2_L25_Ternary Operator examples\\M2_L25_Ternary Operator examples\\M2_L25_Ternary Operator examples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

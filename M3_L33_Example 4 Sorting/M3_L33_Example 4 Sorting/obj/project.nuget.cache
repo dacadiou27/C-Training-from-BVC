@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U6w9vXXovBuAPlz/uNySmnBR83hdFwyooZuF2xiwy1QxTcyQHfJLAFiGUGd1lbf0V+LmoYfSqc63gDaJlM6KZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Example 4 Sorting\\M3_L33_Example 4 Sorting\\M3_L33_Example 4 Sorting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

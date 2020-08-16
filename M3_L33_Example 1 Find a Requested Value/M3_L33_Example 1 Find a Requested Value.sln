@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_L33_Example 1 Find a Requested Value", "M3_L33_Example 1 Find a Requested Value\M3_L33_Example 1 Find a Requested Value.csproj", "{B63CD067-BF90-4D46-895C-00EBAECF57CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B63CD067-BF90-4D46-895C-00EBAECF57CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B63CD067-BF90-4D46-895C-00EBAECF57CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B63CD067-BF90-4D46-895C-00EBAECF57CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B63CD067-BF90-4D46-895C-00EBAECF57CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC08A6D-303B-4F31-9C8F-AFF6DAD14DDA}
+	EndGlobalSection
+EndGlobal

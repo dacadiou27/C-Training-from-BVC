@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\bin\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Example 2 Circle Class\M4_L42_Example 2 Circle Class\obj\Debug\netcoreapp3.1\M4_L42_Example 2 Circle Class.genruntimeconfig.cache

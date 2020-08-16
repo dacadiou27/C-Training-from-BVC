@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>M4_L41_OOPC_Example_2_Bank_Account</RootNamespace>
+  </PropertyGroup>
+
+</Project>

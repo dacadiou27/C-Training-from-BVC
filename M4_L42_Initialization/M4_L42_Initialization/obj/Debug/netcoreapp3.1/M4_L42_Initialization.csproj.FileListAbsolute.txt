@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\bin\Debug\netcoreapp3.1\M4_L42_Initialization.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\bin\Debug\netcoreapp3.1\M4_L42_Initialization.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\bin\Debug\netcoreapp3.1\M4_L42_Initialization.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\bin\Debug\netcoreapp3.1\M4_L42_Initialization.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\bin\Debug\netcoreapp3.1\M4_L42_Initialization.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\bin\Debug\netcoreapp3.1\M4_L42_Initialization.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\obj\Debug\netcoreapp3.1\M4_L42_Initialization.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\obj\Debug\netcoreapp3.1\M4_L42_Initialization.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\obj\Debug\netcoreapp3.1\M4_L42_Initialization.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\obj\Debug\netcoreapp3.1\M4_L42_Initialization.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\obj\Debug\netcoreapp3.1\M4_L42_Initialization.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\obj\Debug\netcoreapp3.1\M4_L42_Initialization.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M4_L42_Initialization\M4_L42_Initialization\obj\Debug\netcoreapp3.1\M4_L42_Initialization.genruntimeconfig.cache
