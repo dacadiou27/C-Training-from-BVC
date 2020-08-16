@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M2_LA21_Example_5_Match_Name_in_All_Case/1.0.0": {
+        "runtime": {
+          "M2_LA21_Example_5_Match_Name_in_All_Case.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M2_LA21_Example_5_Match_Name_in_All_Case/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

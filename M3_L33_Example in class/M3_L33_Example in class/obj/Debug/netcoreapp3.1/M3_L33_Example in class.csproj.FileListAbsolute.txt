@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.exe
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.deps.json
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Exampl
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.dll
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.genruntimeconfig.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\bin\Debug\netcoreapp3.1\M3_L33_Example in class.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class\M3_L33_Example in class\obj\Debug\netcoreapp3.1\M3_L33_Example in class.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

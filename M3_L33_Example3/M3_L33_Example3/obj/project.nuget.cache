@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "mmWNjVcZXvXuTZZain5Xmr8PZuWgJN8VCs7V7XXkqdbTxWxhCgcNXgpIM89L60Z7StqQPN/iBVapWYjAy6K1aQ==",
@@ -7,4 +8,15 @@
     "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "mmWNjVcZXvXuTZZain5Xmr8PZuWgJN8VCs7V7XXkqdbTxWxhCgcNXgpIM89L60Z7StqQPN/iBVapWYjAy6K1aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Example3\\M3_L33_Example3\\M3_L33_Example3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f
 }

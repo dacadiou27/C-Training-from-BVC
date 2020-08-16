@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {C75ABB2B-8AEB-4733-8D6C-E361AA3FE025}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2_L21_Example_4_Detect_Uppercase", "M2_L21_Example_4_Detect_Uppercase\M2_L21_Example_4_Detect_Uppercase.csproj", "{45BB24E5-DF67-415C-8F25-14FAAC89ACCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BB24E5-DF67-415C-8F25-14FAAC89ACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BB24E5-DF67-415C-8F25-14FAAC89ACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BB24E5-DF67-415C-8F25-14FAAC89ACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BB24E5-DF67-415C-8F25-14FAAC89ACCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C75ABB2B-8AEB-4733-8D6C-E361AA3FE025}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

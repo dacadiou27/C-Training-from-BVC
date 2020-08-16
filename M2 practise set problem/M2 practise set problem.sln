@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {5A671FC3-012B-498C-9178-C71DDABDC57E}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2 practise set problem", "M2 practise set problem\M2 practise set problem.csproj", "{FF5B42C5-471E-4C51-8066-2917F02B735A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5B42C5-471E-4C51-8066-2917F02B735A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5B42C5-471E-4C51-8066-2917F02B735A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5B42C5-471E-4C51-8066-2917F02B735A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5B42C5-471E-4C51-8066-2917F02B735A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A671FC3-012B-498C-9178-C71DDABDC57E}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

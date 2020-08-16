@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\Basic_rewrite\Basic_rewrite\obj\Debug\netcoreapp3.1\Basic_rewrite.csprojAssemblyReference.cache
 C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\Basic_rewrite\Basic_rewrite\obj\Debug\netcoreapp3.1\Basic_rewrite.AssemblyInfoInputs.cache
 C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\Basic_rewrite\Basic_rewrite\obj\Debug\netcoreapp3.1\Basic_rewrite.AssemblyInfo.cs
 C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\Basic_rewrite\Basic_rewrite\obj\Debug\netcoreapp3.1\Basic_rewrite.csproj.CoreCompileInputs.cache
+=======
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\Basic_rewrite\Basic_rewrite\obj\Debug\netcoreapp3.1\Basic_rewrite.csprojAssemblyReference.cache
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\Basic_rewrite\Basic_rewrite\obj\Debug\netcoreapp3.1\Basic_rewrite.AssemblyInfoInputs.cache
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\Basic_rewrite\Basic_rewrite\obj\Debug\netcoreapp3.1\Basic_rewrite.AssemblyInfo.cs
+C:\Users\dacad\Desktop\Bow Valley College\Program fondamental\Exercises\Basic_rewrite\Basic_rewrite\obj\Debug\netcoreapp3.1\Basic_rewrite.csproj.CoreCompileInputs.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {CF5E0E17-E0D7-4802-A631-562BBA8031FF}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_L31_While_Example 3 People Counter", "M3_L31_While_Example 3 People Counter\M3_L31_While_Example 3 People Counter.csproj", "{97C62675-0E78-4C8F-8168-A4403FE596E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C62675-0E78-4C8F-8168-A4403FE596E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C62675-0E78-4C8F-8168-A4403FE596E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C62675-0E78-4C8F-8168-A4403FE596E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C62675-0E78-4C8F-8168-A4403FE596E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF5E0E17-E0D7-4802-A631-562BBA8031FF}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

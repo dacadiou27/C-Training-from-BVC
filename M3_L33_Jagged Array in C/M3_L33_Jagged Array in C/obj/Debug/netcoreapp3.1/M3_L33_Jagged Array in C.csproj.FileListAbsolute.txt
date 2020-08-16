@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.exe
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.deps.json
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagge
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.dll
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.genruntimeconfig.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array in C\M3_L33_Jagged Array in C\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array in C.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

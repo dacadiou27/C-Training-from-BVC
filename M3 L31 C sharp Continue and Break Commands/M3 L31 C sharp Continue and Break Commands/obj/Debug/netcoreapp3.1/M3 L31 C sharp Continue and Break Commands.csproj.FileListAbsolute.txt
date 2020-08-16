@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\bin\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\bin\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\bin\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\bin\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\bin\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\bin\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\obj\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\obj\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\obj\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\obj\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\obj\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\obj\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3 L31 C sharp Continue and Break Commands\M3 L31 C sharp Continue and Break Commands\obj\Debug\netcoreapp3.1\M3 L31 C sharp Continue and Break Commands.genruntimeconfig.cache

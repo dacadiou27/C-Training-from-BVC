@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.exe
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.deps.json
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.runtimeconfig.json
@@ -10,3 +11,17 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.dll
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.genruntimeconfig.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\bin\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L24_Learning Activity 1 Vowels\M2_L24_Learning Activity 1 Vowels\obj\Debug\netcoreapp3.1\M2_L24_Learning Activity 1 Vowels.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

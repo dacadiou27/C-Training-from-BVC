@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v3.1",
@@ -20,4 +21,28 @@
       "sha512": ""
     }
   }
+=======
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M2_L24_Learning Activity 1 Vowels/1.0.0": {
+        "runtime": {
+          "M2_L24_Learning Activity 1 Vowels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M2_L24_Learning Activity 1 Vowels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f
 }

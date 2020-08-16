@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.AssemblyInfoInputs.cache
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.AssemblyInfo.cs
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.csproj.CoreCompileInputs.cache
@@ -11,3 +12,18 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcore
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.genruntimeconfig.cache
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.csprojAssemblyReference.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\bin\Debug\netcoreapp3.1\M2 L21 If.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\bin\Debug\netcoreapp3.1\M2 L21 If.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\bin\Debug\netcoreapp3.1\M2 L21 If.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\bin\Debug\netcoreapp3.1\M2 L21 If.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\bin\Debug\netcoreapp3.1\M2 L21 If.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\bin\Debug\netcoreapp3.1\M2 L21 If.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L21 If\M2 L21 If\obj\Debug\netcoreapp3.1\M2 L21 If.csprojAssemblyReference.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

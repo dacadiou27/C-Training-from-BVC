@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "eU3Bta8q3/jj4goxtQSYh5OYQingdHUa/JffsGQxwgWUSKdFk8B31WUUNfevzCE7CGCpP/XW4E7UA/GttuPrUw==",
@@ -7,4 +8,15 @@
     "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "eU3Bta8q3/jj4goxtQSYh5OYQingdHUa/JffsGQxwgWUSKdFk8B31WUUNfevzCE7CGCpP/XW4E7UA/GttuPrUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f
 }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.exe
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.deps.json
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L3
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.dll
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.genruntimeconfig.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Jagged Array Ex1 student\M3_L33_Jagged Array Ex1 student\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array Ex1 student.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

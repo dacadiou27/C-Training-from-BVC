@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "3ZORe/nRJ+nqaUfJO/H0c/rSdsTLzKW70NBV8Sy4gJCZ+KK4GTQ6Xs5vfpgj5Mx8S7MQXk8N4B0MctmaCtGg4w==",
@@ -7,4 +8,15 @@
     "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "3ZORe/nRJ+nqaUfJO/H0c/rSdsTLzKW70NBV8Sy4gJCZ+KK4GTQ6Xs5vfpgj5Mx8S7MQXk8N4B0MctmaCtGg4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2_L24_Example 1 Day of the Week\\M2_L24_Example 1 Day of the Week\\M2_L24_Example 1 Day of the Week.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f
 }

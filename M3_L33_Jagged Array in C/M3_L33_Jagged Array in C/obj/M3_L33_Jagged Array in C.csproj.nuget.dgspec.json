@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "format": 1,
   "restore": {
@@ -63,4 +64,71 @@
       }
     }
   }
+=======
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C.csproj",
+        "projectName": "M3_L33_Jagged Array in C",
+        "projectPath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C.csproj",
+        "packagesPath": "C:\\Users\\dacad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M3_L33_Jagged Array in C\\M3_L33_Jagged Array in C\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dacad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f
 }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p2kw935hj9pEzDkoBYG6zHoQlVVd+BjmVTihvNhpE/bedKZ5vw6yOuH4m8emHSGZ+GREkLN6AJ4/kAUrIJD4BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2_LA21_Example_5_Match_Name_in_All_Case\\M2_LA21_Example_5_Match_Name_in_All_Case\\M2_LA21_Example_5_Match_Name_in_All_Case.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

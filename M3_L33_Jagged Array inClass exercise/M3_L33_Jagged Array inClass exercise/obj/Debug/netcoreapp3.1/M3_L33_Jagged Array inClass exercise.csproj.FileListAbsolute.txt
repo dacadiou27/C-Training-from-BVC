@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.exe
 C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.deps.json
 C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged A
 C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.dll
 C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.pdb
 C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.genruntimeconfig.cache
+=======
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.exe
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.deps.json
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.runtimeconfig.json
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.runtimeconfig.dev.json
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.dll
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\bin\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.pdb
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.csprojAssemblyReference.cache
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.AssemblyInfoInputs.cache
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.AssemblyInfo.cs
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.csproj.CoreCompileInputs.cache
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.dll
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.pdb
+C:\Users\dacad\source\repos\M3_L33_Jagged Array inClass exercise\M3_L33_Jagged Array inClass exercise\obj\Debug\netcoreapp3.1\M3_L33_Jagged Array inClass exercise.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.AssemblyInfoInputs.cache
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.AssemblyInfo.cs
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.csproj.CoreCompileInputs.cache
@@ -10,3 +11,17 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise s
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.dll
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.genruntimeconfig.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\bin\Debug\netcoreapp3.1\M2 practise set problem.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\bin\Debug\netcoreapp3.1\M2 practise set problem.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\bin\Debug\netcoreapp3.1\M2 practise set problem.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\bin\Debug\netcoreapp3.1\M2 practise set problem.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\bin\Debug\netcoreapp3.1\M2 practise set problem.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\bin\Debug\netcoreapp3.1\M2 practise set problem.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 practise set problem\M2 practise set problem\obj\Debug\netcoreapp3.1\M2 practise set problem.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

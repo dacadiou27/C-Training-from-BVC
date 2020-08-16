@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.AssemblyInfoInputs.cache
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.AssemblyInfo.cs
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.csproj.CoreCompileInputs.cache
@@ -11,3 +12,18 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\D
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.genruntimeconfig.cache
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.csprojAssemblyReference.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\bin\Debug\netcoreapp3.1\M2 L32 For loop.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\bin\Debug\netcoreapp3.1\M2 L32 For loop.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\bin\Debug\netcoreapp3.1\M2 L32 For loop.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\bin\Debug\netcoreapp3.1\M2 L32 For loop.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\bin\Debug\netcoreapp3.1\M2 L32 For loop.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\bin\Debug\netcoreapp3.1\M2 L32 For loop.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2 L32 For loop\M2 L32 For loop\obj\Debug\netcoreapp3.1\M2 L32 For loop.csprojAssemblyReference.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

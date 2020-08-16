@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.exe
 F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.deps.json
 F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.runtimeconfig.json
@@ -24,3 +25,31 @@ C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intr
 C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.dll
 C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.pdb
 C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.genruntimeconfig.cache
+=======
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.exe
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.deps.json
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.runtimeconfig.json
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.runtimeconfig.dev.json
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.dll
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.pdb
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.csprojAssemblyReference.cache
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.AssemblyInfoInputs.cache
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.AssemblyInfo.cs
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.csproj.CoreCompileInputs.cache
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.dll
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.pdb
+F:\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.genruntimeconfig.cache
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.exe
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.deps.json
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.runtimeconfig.json
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.runtimeconfig.dev.json
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.dll
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\bin\Debug\netcoreapp3.1\0_Intro.pdb
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.AssemblyInfo.cs
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.dll
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.pdb
+C:\Users\dacad\Documents\Bow Valley College\Program fondamental\Exercises\0_Intro\0_Intro\obj\Debug\netcoreapp3.1\0_Intro.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

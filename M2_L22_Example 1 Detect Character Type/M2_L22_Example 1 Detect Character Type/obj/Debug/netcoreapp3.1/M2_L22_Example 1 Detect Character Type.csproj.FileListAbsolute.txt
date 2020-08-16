@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.exe
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.deps.json
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.runtimeconfig.json
@@ -10,3 +11,17 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Typ
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.dll
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.genruntimeconfig.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\bin\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M2_L22_Example 1 Detect Character Type\M2_L22_Example 1 Detect Character Type\obj\Debug\netcoreapp3.1\M2_L22_Example 1 Detect Character Type.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

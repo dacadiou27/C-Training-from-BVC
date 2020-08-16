@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.exe
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.deps.json
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\o
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.genruntimeconfig.cache
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.csprojAssemblyReference.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\bin\Debug\netcoreapp3.1\M3_L31_While_loop.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L31_While_loop\M3_L31_While_loop\obj\Debug\netcoreapp3.1\M3_L31_While_loop.csprojAssemblyReference.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

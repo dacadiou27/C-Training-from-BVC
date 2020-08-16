@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.exe
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.deps.json
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.runtimeconfig.json
@@ -11,3 +12,18 @@ C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Examp
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.dll
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.pdb
 C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.genruntimeconfig.cache
+=======
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.exe
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.deps.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\bin\Debug\netcoreapp3.1\M3_L33_Example in class2.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.dll
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.pdb
+C:\Users\dacad\Documents\BVC\Prog fund\Exe\M3_L33_Example in class2\M3_L33_Example in class2\obj\Debug\netcoreapp3.1\M3_L33_Example in class2.genruntimeconfig.cache
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f

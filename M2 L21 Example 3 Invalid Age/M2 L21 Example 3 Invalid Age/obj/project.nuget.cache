@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "7E+gH0OCb/wmJPRjt1CbsMI3PhfI8dyfU7+Mzih4fKdW/mQ7qqg9AIsbKCnc724JQa3AA8kJJrwet/lGNCytyw==",
@@ -7,4 +8,15 @@
     "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "7E+gH0OCb/wmJPRjt1CbsMI3PhfI8dyfU7+Mzih4fKdW/mQ7qqg9AIsbKCnc724JQa3AA8kJJrwet/lGNCytyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dacad\\Documents\\BVC\\Prog fund\\Exe\\M2 L21 Example 3 Invalid Age\\M2 L21 Example 3 Invalid Age\\M2 L21 Example 3 Invalid Age.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dacad\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+>>>>>>> 12f237521d9c77152b306cb7848623a27454fa0f
 }
