@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M2_L25_LA1_Water_s_State_of_Matter", "M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter.csproj", "{0E508E54-CFA6-4283-A2E2-714EBF225BB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E508E54-CFA6-4283-A2E2-714EBF225BB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E508E54-CFA6-4283-A2E2-714EBF225BB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E508E54-CFA6-4283-A2E2-714EBF225BB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E508E54-CFA6-4283-A2E2-714EBF225BB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC399F8-4147-4FF1-8B1C-F71814C627FF}
+	EndGlobalSection
+EndGlobal

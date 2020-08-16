@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3_L32_For_LA1_Estimating_Pi", "M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi.csproj", "{0D8019CF-71E1-4D6F-BFDB-D2C02933EF29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D8019CF-71E1-4D6F-BFDB-D2C02933EF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D8019CF-71E1-4D6F-BFDB-D2C02933EF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D8019CF-71E1-4D6F-BFDB-D2C02933EF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D8019CF-71E1-4D6F-BFDB-D2C02933EF29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4AD8EA5-A607-4257-A06E-393F98FC4346}
+	EndGlobalSection
+EndGlobal

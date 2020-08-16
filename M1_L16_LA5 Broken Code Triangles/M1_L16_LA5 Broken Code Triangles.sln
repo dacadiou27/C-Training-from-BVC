@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M1_L16_LA5 Broken Code Triangles", "M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles.csproj", "{D1FD8423-D0EA-4406-B53D-E4159E2C5798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1FD8423-D0EA-4406-B53D-E4159E2C5798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FD8423-D0EA-4406-B53D-E4159E2C5798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FD8423-D0EA-4406-B53D-E4159E2C5798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FD8423-D0EA-4406-B53D-E4159E2C5798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9204545-0204-4629-8685-22B6B6F6D83D}
+	EndGlobalSection
+EndGlobal

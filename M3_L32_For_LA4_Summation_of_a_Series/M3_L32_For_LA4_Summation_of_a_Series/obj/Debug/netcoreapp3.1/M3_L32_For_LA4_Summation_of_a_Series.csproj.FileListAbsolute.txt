@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\bin\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\bin\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\bin\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\bin\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\bin\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\bin\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\obj\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\obj\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\obj\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\obj\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\obj\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\obj\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA4_Summation_of_a_Series\M3_L32_For_LA4_Summation_of_a_Series\obj\Debug\netcoreapp3.1\M3_L32_For_LA4_Summation_of_a_Series.genruntimeconfig.cache

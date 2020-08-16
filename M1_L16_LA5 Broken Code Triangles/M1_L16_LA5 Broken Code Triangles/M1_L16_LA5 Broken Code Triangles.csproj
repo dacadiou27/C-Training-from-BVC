@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>M1_L16_LA5_Broken_Code_Triangles</RootNamespace>
+  </PropertyGroup>
+
+</Project>

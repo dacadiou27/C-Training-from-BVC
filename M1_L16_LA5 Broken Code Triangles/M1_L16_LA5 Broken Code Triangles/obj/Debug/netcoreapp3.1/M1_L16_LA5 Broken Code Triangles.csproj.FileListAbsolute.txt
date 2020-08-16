@@ -1,0 +1,12 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\obj\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\obj\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\obj\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\bin\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\bin\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\bin\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\bin\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\bin\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\bin\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\obj\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\obj\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA5 Broken Code Triangles\M1_L16_LA5 Broken Code Triangles\obj\Debug\netcoreapp3.1\M1_L16_LA5 Broken Code Triangles.genruntimeconfig.cache

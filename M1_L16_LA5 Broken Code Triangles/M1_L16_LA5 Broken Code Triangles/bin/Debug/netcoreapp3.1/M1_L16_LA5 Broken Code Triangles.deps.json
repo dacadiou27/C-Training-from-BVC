@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M1_L16_LA5 Broken Code Triangles/1.0.0": {
+        "runtime": {
+          "M1_L16_LA5 Broken Code Triangles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M1_L16_LA5 Broken Code Triangles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

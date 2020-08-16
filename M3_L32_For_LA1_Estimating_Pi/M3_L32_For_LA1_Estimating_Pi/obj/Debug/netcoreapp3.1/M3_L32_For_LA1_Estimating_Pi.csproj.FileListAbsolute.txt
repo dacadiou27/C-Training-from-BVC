@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\bin\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\bin\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\bin\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\bin\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\bin\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\bin\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\obj\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\obj\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\obj\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\obj\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\obj\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\obj\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA1_Estimating_Pi\M3_L32_For_LA1_Estimating_Pi\obj\Debug\netcoreapp3.1\M3_L32_For_LA1_Estimating_Pi.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\bin\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\bin\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\bin\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\bin\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\bin\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\bin\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\obj\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\obj\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\obj\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\obj\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\obj\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\obj\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M3_L32_For_LA2_Printing_Pyramids\M3_L32_For_LA2_Printing_Pyramids\obj\Debug\netcoreapp3.1\M3_L32_For_LA2_Printing_Pyramids.genruntimeconfig.cache

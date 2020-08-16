@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\bin\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\bin\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\bin\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\bin\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\bin\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\bin\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\obj\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\obj\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\obj\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\obj\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\obj\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\obj\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M2_L25_LA1_Water_s_State_of_Matter\M2_L25_LA1_Water_s_State_of_Matter\obj\Debug\netcoreapp3.1\M2_L25_LA1_Water_s_State_of_Matter.genruntimeconfig.cache

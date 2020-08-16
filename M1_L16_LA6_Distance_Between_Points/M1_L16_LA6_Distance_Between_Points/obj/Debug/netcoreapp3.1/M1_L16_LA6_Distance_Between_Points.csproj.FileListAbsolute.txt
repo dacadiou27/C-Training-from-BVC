@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\bin\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\bin\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\bin\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\bin\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\bin\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\bin\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\obj\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\obj\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\obj\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\obj\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\obj\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\obj\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M1_L16_LA6_Distance_Between_Points\M1_L16_LA6_Distance_Between_Points\obj\Debug\netcoreapp3.1\M1_L16_LA6_Distance_Between_Points.genruntimeconfig.cache
