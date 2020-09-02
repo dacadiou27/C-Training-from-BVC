@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\bin\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\bin\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\bin\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\bin\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\bin\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\bin\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\obj\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\obj\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\obj\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\obj\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\obj\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\obj\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.genruntimeconfig.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX1_Object_Counter\M5_L53_Static_EX1_Object_Counter\obj\Debug\netcoreapp3.1\M5_L53_Static_EX1_Object_Counter.csprojAssemblyReference.cache

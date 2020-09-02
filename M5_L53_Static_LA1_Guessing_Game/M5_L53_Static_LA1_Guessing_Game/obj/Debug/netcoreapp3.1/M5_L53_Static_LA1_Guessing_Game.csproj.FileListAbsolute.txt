@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\bin\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\bin\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\bin\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\bin\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\bin\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\bin\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\obj\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\obj\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\obj\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\obj\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\obj\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\obj\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_LA1_Guessing_Game\M5_L53_Static_LA1_Guessing_Game\obj\Debug\netcoreapp3.1\M5_L53_Static_LA1_Guessing_Game.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX4_bird\M5_L52_Polym_EX4_bird\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX4_bird.genruntimeconfig.cache

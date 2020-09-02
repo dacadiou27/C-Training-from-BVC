@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M5_L53_Recursive_LA2_Print Series", "M5_L53_Recursive_LA2_Print Series\M5_L53_Recursive_LA2_Print Series.csproj", "{7FB6535E-686F-4F8C-A2F0-0BC3360149EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB6535E-686F-4F8C-A2F0-0BC3360149EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB6535E-686F-4F8C-A2F0-0BC3360149EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB6535E-686F-4F8C-A2F0-0BC3360149EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB6535E-686F-4F8C-A2F0-0BC3360149EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57829422-3FE3-4EE7-896F-76C225803D26}
+	EndGlobalSection
+EndGlobal

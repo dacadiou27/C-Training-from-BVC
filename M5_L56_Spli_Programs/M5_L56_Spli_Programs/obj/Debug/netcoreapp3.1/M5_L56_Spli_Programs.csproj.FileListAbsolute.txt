@@ -1,0 +1,13 @@
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\bin\Debug\netcoreapp3.1\M5_L56_Spli_Programs.exe
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\bin\Debug\netcoreapp3.1\M5_L56_Spli_Programs.deps.json
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\bin\Debug\netcoreapp3.1\M5_L56_Spli_Programs.runtimeconfig.json
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\bin\Debug\netcoreapp3.1\M5_L56_Spli_Programs.runtimeconfig.dev.json
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\bin\Debug\netcoreapp3.1\M5_L56_Spli_Programs.dll
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\bin\Debug\netcoreapp3.1\M5_L56_Spli_Programs.pdb
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\obj\Debug\netcoreapp3.1\M5_L56_Spli_Programs.csprojAssemblyReference.cache
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\obj\Debug\netcoreapp3.1\M5_L56_Spli_Programs.AssemblyInfoInputs.cache
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\obj\Debug\netcoreapp3.1\M5_L56_Spli_Programs.AssemblyInfo.cs
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\obj\Debug\netcoreapp3.1\M5_L56_Spli_Programs.csproj.CoreCompileInputs.cache
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\obj\Debug\netcoreapp3.1\M5_L56_Spli_Programs.dll
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\obj\Debug\netcoreapp3.1\M5_L56_Spli_Programs.pdb
+C:\Users\dacad\source\repos\M5_L56_Spli_Programs\M5_L56_Spli_Programs\obj\Debug\netcoreapp3.1\M5_L56_Spli_Programs.genruntimeconfig.cache

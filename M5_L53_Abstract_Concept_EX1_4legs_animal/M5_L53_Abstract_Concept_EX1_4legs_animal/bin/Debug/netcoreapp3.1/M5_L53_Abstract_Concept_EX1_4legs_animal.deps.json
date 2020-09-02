@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "M5_L53_Abstract_Concept_EX1_4legs_animal/1.0.0": {
+        "runtime": {
+          "M5_L53_Abstract_Concept_EX1_4legs_animal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M5_L53_Abstract_Concept_EX1_4legs_animal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

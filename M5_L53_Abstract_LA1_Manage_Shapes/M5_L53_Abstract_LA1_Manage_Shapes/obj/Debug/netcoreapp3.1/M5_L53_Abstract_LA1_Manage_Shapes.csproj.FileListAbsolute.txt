@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\bin\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\bin\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\bin\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\bin\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\bin\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\bin\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\obj\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\obj\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\obj\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\obj\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\obj\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\obj\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Abstract_LA1_Manage_Shapes\M5_L53_Abstract_LA1_Manage_Shapes\obj\Debug\netcoreapp3.1\M5_L53_Abstract_LA1_Manage_Shapes.genruntimeconfig.cache

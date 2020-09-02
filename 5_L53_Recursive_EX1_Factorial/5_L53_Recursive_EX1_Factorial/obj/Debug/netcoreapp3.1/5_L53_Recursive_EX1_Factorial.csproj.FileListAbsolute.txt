@@ -1,0 +1,13 @@
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\bin\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.exe
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\bin\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.deps.json
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\bin\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.runtimeconfig.json
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\bin\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.runtimeconfig.dev.json
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\bin\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.dll
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\bin\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.pdb
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\obj\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.csprojAssemblyReference.cache
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\obj\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.AssemblyInfoInputs.cache
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\obj\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.AssemblyInfo.cs
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\obj\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\obj\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.dll
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\obj\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.pdb
+C:\Users\dacad\source\repos\5_L53_Recursive_EX1_Factorial\5_L53_Recursive_EX1_Factorial\obj\Debug\netcoreapp3.1\5_L53_Recursive_EX1_Factorial.genruntimeconfig.cache

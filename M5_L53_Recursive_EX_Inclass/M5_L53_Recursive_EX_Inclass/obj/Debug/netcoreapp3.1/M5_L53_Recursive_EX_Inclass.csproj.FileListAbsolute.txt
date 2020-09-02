@@ -1,0 +1,13 @@
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\bin\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.exe
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\bin\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.deps.json
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\bin\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.runtimeconfig.json
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\bin\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.runtimeconfig.dev.json
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\bin\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.dll
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\bin\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.pdb
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\obj\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.csprojAssemblyReference.cache
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\obj\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.AssemblyInfoInputs.cache
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\obj\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.AssemblyInfo.cs
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\obj\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.csproj.CoreCompileInputs.cache
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\obj\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.dll
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\obj\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.pdb
+C:\Users\dacad\source\repos\M5_L53_Recursive_EX_Inclass\M5_L53_Recursive_EX_Inclass\obj\Debug\netcoreapp3.1\M5_L53_Recursive_EX_Inclass.genruntimeconfig.cache

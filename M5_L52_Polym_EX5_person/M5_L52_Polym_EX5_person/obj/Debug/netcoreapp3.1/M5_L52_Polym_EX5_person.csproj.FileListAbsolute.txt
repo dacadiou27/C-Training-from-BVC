@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\bin\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L52_Polym_EX5_person\M5_L52_Polym_EX5_person\obj\Debug\netcoreapp3.1\M5_L52_Polym_EX5_person.genruntimeconfig.cache

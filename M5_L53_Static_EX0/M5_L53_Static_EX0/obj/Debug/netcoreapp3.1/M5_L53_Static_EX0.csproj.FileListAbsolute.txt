@@ -1,0 +1,13 @@
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\bin\Debug\netcoreapp3.1\M5_L53_Static_EX0.exe
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\bin\Debug\netcoreapp3.1\M5_L53_Static_EX0.deps.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\bin\Debug\netcoreapp3.1\M5_L53_Static_EX0.runtimeconfig.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\bin\Debug\netcoreapp3.1\M5_L53_Static_EX0.runtimeconfig.dev.json
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\bin\Debug\netcoreapp3.1\M5_L53_Static_EX0.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\bin\Debug\netcoreapp3.1\M5_L53_Static_EX0.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\obj\Debug\netcoreapp3.1\M5_L53_Static_EX0.csprojAssemblyReference.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\obj\Debug\netcoreapp3.1\M5_L53_Static_EX0.AssemblyInfoInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\obj\Debug\netcoreapp3.1\M5_L53_Static_EX0.AssemblyInfo.cs
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\obj\Debug\netcoreapp3.1\M5_L53_Static_EX0.csproj.CoreCompileInputs.cache
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\obj\Debug\netcoreapp3.1\M5_L53_Static_EX0.dll
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\obj\Debug\netcoreapp3.1\M5_L53_Static_EX0.pdb
+C:\Users\dacad\Documents\BVC\Exercices\Prog Fund Exe\M5_L53_Static_EX0\M5_L53_Static_EX0\obj\Debug\netcoreapp3.1\M5_L53_Static_EX0.genruntimeconfig.cache
